@@ -1,7 +1,7 @@
 <h1 align="center"> Desafío del Amigo Secreto </h1>
 
 <div align="center">
-  <img width="1168" height="755" alt="img2" src="https://github.com/user-attachments/assets/5a6e5596-45af-43e0-abc2-b15e33d2f697" />
+  <img width="1168" height="291" alt="img2" src="https://github.com/user-attachments/assets/4cc15076-ea13-44e5-84fb-50a41d066745" />
 </div>
 
 ## Estatus del Proyecto ##
